@@ -144,3 +144,8 @@ date,ref_name,ref,commit_sha,label,time,rss,vms
 2023-07-21T21-33-22,main,refs/heads/main,22fa536da0ba131592a298346e7d51051b3a7cdf,Truth Tracking GSF,23.783208,519802880,718233600
 2023-07-21T21-33-22,main,refs/heads/main,22fa536da0ba131592a298346e7d51051b3a7cdf,Truth Tracking KF,1.409,425500672,613072896
 2023-07-21T21-33-22,main,refs/heads/main,22fa536da0ba131592a298346e7d51051b3a7cdf,Vertexing,38.1894,854974464,1103859712
+2023-07-24T15-58-53,main,refs/heads/main,dbcba62d14fdfce8c7af229d598cd65126efc8ca,CKF Tracking,9.923928,600330240,788086784
+2023-07-24T15-58-53,main,refs/heads/main,dbcba62d14fdfce8c7af229d598cd65126efc8ca,Simulation,9.69131,592445440,819220480
+2023-07-24T15-58-53,main,refs/heads/main,dbcba62d14fdfce8c7af229d598cd65126efc8ca,Truth Tracking GSF,27.04952,510197760,712978432
+2023-07-24T15-58-53,main,refs/heads/main,dbcba62d14fdfce8c7af229d598cd65126efc8ca,Truth Tracking KF,0.000466,4096,7053312
+2023-07-24T15-58-53,main,refs/heads/main,dbcba62d14fdfce8c7af229d598cd65126efc8ca,Vertexing,2.324138,446509056,614309888
