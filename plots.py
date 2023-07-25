@@ -121,7 +121,7 @@ def main(
     content = ""
 
     for plot in plots:
-        content += f"{plot.read_text()}"
+        content += f"<div>{plot.read_text()}</div>"
 
     index_file = outdir / "index.html"
     index_file.write_text(
@@ -131,16 +131,26 @@ def main(
     <title>Runtime metrics</title>
     <style>
     .wrapper {{
-      display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        max-width: 1500px;
+        margin: 0 auto;
+    }}
+    .grid {{
+        display: grid;
+        grid-template-columns: repeat(2, 50%);
+    }}
+    .grid svg {{
+        width:100%;
+        height:auto;
     }}
     </style>
 </head>
 <body>
-<h1>Runtime metrics</h1>
-Generated: {date}<br>
 <div class="wrapper">
-{content}
+    <h1>Runtime metrics</h1>
+    Generated: {date}<br>
+    <div class="grid">
+    {content}
+    </div>
 </div>
 </body>
 </html>
