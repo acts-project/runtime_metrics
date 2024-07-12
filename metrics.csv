@@ -5531,3 +5531,10 @@ date,ref_name,ref,commit_sha,label,time,rss,vms
 2024-07-12T18-41-50,main,refs/heads/main,bfeb1609a7b1eb1326907b739cadcb3e09d89ef1,Truth Tracking GX2F,25.42,606132000,0
 2024-07-12T18-41-50,main,refs/heads/main,bfeb1609a7b1eb1326907b739cadcb3e09d89ef1,Truth Tracking KF,8.11,556600000,0
 2024-07-12T18-41-50,main,refs/heads/main,bfeb1609a7b1eb1326907b739cadcb3e09d89ef1,Vertexing,13.62,742532000,0
+2024-07-12T20-00-55,main,refs/heads/main,7db63a6c394976b59511f74cccd1d0e91cddbabb,CKF Tracking,321.22,735704000,0
+2024-07-12T20-00-55,main,refs/heads/main,7db63a6c394976b59511f74cccd1d0e91cddbabb,Simulation,41.07,835696000,0
+2024-07-12T20-00-55,main,refs/heads/main,7db63a6c394976b59511f74cccd1d0e91cddbabb,Track finding ttbar,108.55,1452420000,0
+2024-07-12T20-00-55,main,refs/heads/main,7db63a6c394976b59511f74cccd1d0e91cddbabb,Truth Tracking GSF,29.33,564532000,0
+2024-07-12T20-00-55,main,refs/heads/main,7db63a6c394976b59511f74cccd1d0e91cddbabb,Truth Tracking GX2F,24.93,603704000,0
+2024-07-12T20-00-55,main,refs/heads/main,7db63a6c394976b59511f74cccd1d0e91cddbabb,Truth Tracking KF,8.02,554884000,0
+2024-07-12T20-00-55,main,refs/heads/main,7db63a6c394976b59511f74cccd1d0e91cddbabb,Vertexing,13.55,728992000,0
