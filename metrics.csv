@@ -6280,3 +6280,10 @@ date,ref_name,ref,commit_sha,label,time,rss,vms
 2024-08-20T23-13-06,main,refs/heads/main,77d1f88947a7f7bf4da082ad81ccdb5fac3bda88,Truth Tracking GSF,28.79,568264000,0
 2024-08-20T23-13-06,main,refs/heads/main,77d1f88947a7f7bf4da082ad81ccdb5fac3bda88,Truth Tracking GX2F,26.15,614008000,0
 2024-08-20T23-13-06,main,refs/heads/main,77d1f88947a7f7bf4da082ad81ccdb5fac3bda88,Truth Tracking KF,8.8,567164000,0
+2024-08-21T07-24-32,main,refs/heads/main,7c272316b739a72bf45d92e5eb336295e5b41201,Simulation,64.33,898436000,0
+2024-08-21T07-24-32,main,refs/heads/main,7c272316b739a72bf45d92e5eb336295e5b41201,CKF single muon,25.35,612912000,0
+2024-08-21T07-24-32,main,refs/heads/main,7c272316b739a72bf45d92e5eb336295e5b41201,CKF muon 50,4.41,611464000,0
+2024-08-21T07-24-32,main,refs/heads/main,7c272316b739a72bf45d92e5eb336295e5b41201,CKF ttbar 200,120.25,1488104000,0
+2024-08-21T07-24-32,main,refs/heads/main,7c272316b739a72bf45d92e5eb336295e5b41201,Truth Tracking GSF,28.46,563848000,0
+2024-08-21T07-24-32,main,refs/heads/main,7c272316b739a72bf45d92e5eb336295e5b41201,Truth Tracking GX2F,26.32,612716000,0
+2024-08-21T07-24-32,main,refs/heads/main,7c272316b739a72bf45d92e5eb336295e5b41201,Truth Tracking KF,8.57,565328000,0
