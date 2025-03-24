@@ -10600,3 +10600,12 @@ date,ref_name,ref,commit_sha,label,time,rss,vms
 2025-03-20T17-26-55,main,refs/heads/main,ddb7d15e22a07499bf3d9a4f49447b0d63c70e9f,Truth Tracking KF,12.79,740335616,0
 2025-03-20T17-26-55,main,refs/heads/main,ddb7d15e22a07499bf3d9a4f49447b0d63c70e9f,Truth Tracking GSF refit,35.86,862969856,0
 2025-03-20T17-26-55,main,refs/heads/main,ddb7d15e22a07499bf3d9a4f49447b0d63c70e9f,Truth Tracking KF refit,16.2,860237824,0
+2025-03-24T17-01-45,main,refs/heads/main,2aa6b1cb7917fd92f70a2bee78c32f83542b85c5,Simulation,80.23,1013657600,0
+2025-03-24T17-01-45,main,refs/heads/main,2aa6b1cb7917fd92f70a2bee78c32f83542b85c5,CKF single muon,15.48,644988928,0
+2025-03-24T17-01-45,main,refs/heads/main,2aa6b1cb7917fd92f70a2bee78c32f83542b85c5,CKF muon 50,8.3,726155264,0
+2025-03-24T17-01-45,main,refs/heads/main,2aa6b1cb7917fd92f70a2bee78c32f83542b85c5,CKF ttbar 200,231.81,1073324032,0
+2025-03-24T17-01-45,main,refs/heads/main,2aa6b1cb7917fd92f70a2bee78c32f83542b85c5,Truth Tracking GSF,33.6,744890368,0
+2025-03-24T17-01-45,main,refs/heads/main,2aa6b1cb7917fd92f70a2bee78c32f83542b85c5,Truth Tracking GX2F,13.7,839143424,0
+2025-03-24T17-01-45,main,refs/heads/main,2aa6b1cb7917fd92f70a2bee78c32f83542b85c5,Truth Tracking KF,12.94,738529280,0
+2025-03-24T17-01-45,main,refs/heads/main,2aa6b1cb7917fd92f70a2bee78c32f83542b85c5,Truth Tracking GSF refit,37.9,874500096,0
+2025-03-24T17-01-45,main,refs/heads/main,2aa6b1cb7917fd92f70a2bee78c32f83542b85c5,Truth Tracking KF refit,17.04,872837120,0
