@@ -24219,3 +24219,14 @@ date,ref_name,ref,commit_sha,label,time,rss,vms
 2026-07-28T23-05-21,main,refs/heads/main,8a4be8669991090fdce61690e89475a5af106a1f,Truth Tracking KF,19.4,689938432,0
 2026-07-28T23-05-21,main,refs/heads/main,8a4be8669991090fdce61690e89475a5af106a1f,Truth Tracking GSF refit,38.44,906596352,0
 2026-07-28T23-05-21,main,refs/heads/main,8a4be8669991090fdce61690e89475a5af106a1f,Truth Tracking KF refit,28.85,845008896,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,Simulation,56.75,1137356800,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,Geant4 Sim for GSF,225.41,1080479744,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,CKF single muon,44.84,610045952,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,CKF muon 50,15.89,708042752,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,CKF ttbar 200,87.16,1130176512,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,Truth Tracking GSF,33.47,793198592,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,Truth Tracking GX2F,22.62,782852096,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,Comparison - Truth Tracking GX2F vs KF,105.09,603455488,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,Truth Tracking KF,21.33,690999296,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,Truth Tracking GSF refit,42.18,921505792,0
+2026-07-29T00-24-00,main,refs/heads/main,d98df814a4d9fe257e1c84de0a81d78ca6b21f7e,Truth Tracking KF refit,31.87,860827648,0
